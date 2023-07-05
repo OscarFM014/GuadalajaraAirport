@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your Ora
 ### Prerequisites 🔧
 You need an APEX account.
 
-To visualize the game:
+To visualize the app:
 > 1. Open your APEX and create a new project by an .sql file, that you can find with the name of AGDL.sql on this repository
 
 ## Build With 🛠
